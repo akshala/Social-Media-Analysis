@@ -6,26 +6,26 @@ Task 2
 ------------
 Heroku web app link: https://akshala-twitter-data-analysis.herokuapp.com/ 
 
-social_media_data_collection.ipynb: ipynb file for task with datacollection and EDA.
-social_media_data_collection.pdf: PDF of the above file.
-web_app: Folder with code for interactive web application
-projections: Metadata and vectors for embedding projection
-embeddings.model: Saved embedding model. 
+social_media_data_collection.ipynb: ipynb file for task with datacollection and EDA.   
+social_media_data_collection.pdf: PDF of the above file.  
+web_app: Folder with code for interactive web application  
+projections: Metadata and vectors for embedding projection  
+embeddings.model: Saved embedding model.   
 
 Task 3
 ------------
 # Sub-Task A
-Google Drive link for MongoDB collection (table extraction): https://drive.google.com/drive/folders/1uk1HTHZ8gLyVomPYRG-74fEbwu33K23K?usp=sharing
-pdf_table_extraction.ipynb: ipynb file for task to capture table from PDF files and store in MongoDB.
-pdf_table_extraction.pdf: PDF of the above file.
+Google Drive link for MongoDB collection (table extraction): https://drive.google.com/drive/folders/1uk1HTHZ8gLyVomPYRG-74fEbwu33K23K?usp=sharing  
+pdf_table_extraction.ipynb: ipynb file for task to capture table from PDF files and store in MongoDB.  
+pdf_table_extraction.pdf: PDF of the above file.  
 
 
 # Sub-Task B 
-Google Drive link for MongoDB collection (XMLs to DB): https://drive.google.com/drive/folders/1Z8RuAxyZJTUYVT9nuqShhg2iZELJGlL5?usp=sharing 
+Google Drive link for MongoDB collection (XMLs to DB): https://drive.google.com/drive/folders/1Z8RuAxyZJTUYVT9nuqShhg2iZELJGlL5?usp=sharing  
 
-xml_to_DB.ipynb: ipynb file for task with XML to MongoDB conversion and EDA.
-xml_to_DB.pdf: PDF of the above file.
-Report.pdf: Summary of EDA
+xml_to_DB.ipynb: ipynb file for task with XML to MongoDB conversion and EDA.  
+xml_to_DB.pdf: PDF of the above file.  
+Report.pdf: Summary of EDA  
 
 # References
 woeid: https://codebeautify.org/jsonviewer/f83352  
