@@ -28,18 +28,17 @@ xml_to_DB.pdf: PDF of the above file.
 Report.pdf: Summary of EDA
 
 # References
-woeid: https://codebeautify.org/jsonviewer/f83352 
-https://developer.twitter.com/en/docs/twitter-api/v1/trends/locations-with-trending-topics/api-reference/get-trends-closest
-https://stackoverflow.com/questions/20198600/getting-most-popular-hashtags-using-twitter-api
-https://stackoverflow.com/questions/27084617/detect-strings-with-non-english-characters-in-python
-https://stackoverflow.com/questions/40849116/how-to-use-tensorboard-embedding-projector
-https://pypi.org/project/tabula-py/
-https://towardsdatascience.com/scraping-table-data-from-pdf-files-using-a-single-line-in-python-8607880c750
-https://www.youtube.com/watch?v=WWgiRkvl1Ws
-https://www.ibm.com/developerworks/xml/library/x-hiperfparse/
-https://stackoverflow.com/questions/324214/what-is-the-fastest-way-to-parse-large-xml-docs-in-python
-https://www.geeksforgeeks.org/generating-word-cloud-python/
-https://stackoverflow.com/questions/16010869/plot-a-bar-using-matplotlib-using-a-dictionary
-https://www.geeksforgeeks.org/python-n-largest-values-in-dictionary/
-http://jonathansoma.com/lede/foundations-2018/pandas/creating-lollipop-charts-with-pandas-and-matplotlib/
-
+woeid: https://codebeautify.org/jsonviewer/f83352  
+https://developer.twitter.com/en/docs/twitter-api/v1/trends/locations-with-trending-topics/api-reference/get-trends-closest  
+https://stackoverflow.com/questions/20198600/getting-most-popular-hashtags-using-twitter-api  
+https://stackoverflow.com/questions/27084617/detect-strings-with-non-english-characters-in-python  
+https://stackoverflow.com/questions/40849116/how-to-use-tensorboard-embedding-projector  
+https://pypi.org/project/tabula-py/  
+https://towardsdatascience.com/scraping-table-data-from-pdf-files-using-a-single-line-in-python-8607880c750  
+https://www.youtube.com/watch?v=WWgiRkvl1Ws  
+https://www.ibm.com/developerworks/xml/library/x-hiperfparse/  
+https://stackoverflow.com/questions/324214/what-is-the-fastest-way-to-parse-large-xml-docs-in-python  
+https://www.geeksforgeeks.org/generating-word-cloud-python/  
+https://stackoverflow.com/questions/16010869/plot-a-bar-using-matplotlib-using-a-dictionary  
+https://www.geeksforgeeks.org/python-n-largest-values-in-dictionary/  
+http://jonathansoma.com/lede/foundations-2018/pandas/creating-lollipop-charts-with-pandas-and-matplotlib/  
