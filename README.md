@@ -27,7 +27,7 @@ xml_to_DB.ipynb: ipynb file for task with XML to MongoDB conversion and EDA.
 xml_to_DB.pdf: PDF of the above file.  
 Report.pdf: Summary of EDA  
 
-# References
+#### References
 woeid: https://codebeautify.org/jsonviewer/f83352  
 https://developer.twitter.com/en/docs/twitter-api/v1/trends/locations-with-trending-topics/api-reference/get-trends-closest  
 https://stackoverflow.com/questions/20198600/getting-most-popular-hashtags-using-twitter-api  
