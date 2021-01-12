@@ -14,13 +14,13 @@ embeddings.model: Saved embedding model.
 
 Task 3
 ------------
-# Sub-Task A
+### Sub-Task A
 Google Drive link for MongoDB collection (table extraction): https://drive.google.com/drive/folders/1uk1HTHZ8gLyVomPYRG-74fEbwu33K23K?usp=sharing  
 pdf_table_extraction.ipynb: ipynb file for task to capture table from PDF files and store in MongoDB.  
 pdf_table_extraction.pdf: PDF of the above file.  
 
 
-# Sub-Task B 
+### Sub-Task B 
 Google Drive link for MongoDB collection (XMLs to DB): https://drive.google.com/drive/folders/1Z8RuAxyZJTUYVT9nuqShhg2iZELJGlL5?usp=sharing  
 
 xml_to_DB.ipynb: ipynb file for task with XML to MongoDB conversion and EDA.  
